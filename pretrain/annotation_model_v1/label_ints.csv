@@ -1,0 +1,204 @@
+,0
+0,"plasmacytoid dendritic cell, human"
+1,"CD4-positive, alpha-beta T cell"
+2,type B pancreatic cell
+3,non-classical monocyte
+4,"double-positive, alpha-beta thymocyte"
+5,kidney distal convoluted tubule epithelial cell
+6,follicular B cell
+7,endothelial cell of vascular tree
+8,pulmonary ionocyte
+9,fast muscle cell
+10,smooth muscle cell of prostate
+11,inflammatory macrophage
+12,retinal cone cell
+13,cardiac endothelial cell
+14,monocyte
+15,"effector memory CD4-positive, alpha-beta T cell"
+16,smooth muscle cell
+17,leukocyte
+18,luminal epithelial cell of mammary gland
+19,memory B cell
+20,mature NK T cell
+21,germinal center B cell
+22,enteric smooth muscle cell
+23,endothelial cell of lymphatic vessel
+24,luminal cell of prostate epithelium
+25,kidney epithelial cell
+26,lung neuroendocrine cell
+27,ciliated cell
+28,intestinal tuft cell
+29,"effector memory CD8-positive, alpha-beta T cell"
+30,neuron
+31,"naive thymus-derived CD4-positive, alpha-beta T cell"
+32,neural crest cell
+33,enteroendocrine cell
+34,lung endothelial cell
+35,lung ciliated cell
+36,squamous epithelial cell
+37,basal cell of prostate epithelium
+38,endothelial cell of artery
+39,CD14-positive monocyte
+40,keratinocyte
+41,fibroblast
+42,"dendritic cell, human"
+43,epithelial cell of proximal tubule
+44,epicardial adipocyte
+45,pro-B cell
+46,capillary endothelial cell
+47,progenitor cell
+48,cardiac muscle cell
+49,stromal cell of ovary
+50,enterocyte
+51,"central memory CD8-positive, alpha-beta T cell"
+52,naive regulatory T cell
+53,mast cell
+54,lymphocyte
+55,periportal region hepatocyte
+56,plasmacytoid dendritic cell
+57,type II pneumocyte
+58,melanocyte
+59,classical monocyte
+60,"effector CD4-positive, alpha-beta T cell"
+61,"activated CD8-positive, alpha-beta T cell"
+62,oligodendrocyte precursor cell
+63,erythroid lineage cell
+64,paneth cell
+65,stromal cell
+66,regulatory T cell
+67,IgA plasma cell
+68,platelet
+69,plasma cell
+70,precursor B cell
+71,hematopoietic stem cell
+72,alveolar macrophage
+73,fat cell
+74,cardiac neuron
+75,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+76,hepatic stellate cell
+77,T-helper 1 cell
+78,mesodermal cell
+79,fibroblast of cardiac tissue
+80,mucosal invariant T cell
+81,pancreatic ductal cell
+82,"CD16-negative, CD56-bright natural killer cell, human"
+83,retinal bipolar neuron
+84,OFF-bipolar cell
+85,naive B cell
+86,innate lymphoid cell
+87,oligodendrocyte
+88,megakaryocyte
+89,thymocyte
+90,natural killer cell
+91,"activated CD4-positive, alpha-beta T cell"
+92,glial cell
+93,neutrophil
+94,class switched memory B cell
+95,type I pneumocyte
+96,kidney loop of Henle thick ascending limb epithelial cell
+97,secretory cell
+98,microglial cell
+99,Mueller cell
+100,memory T cell
+101,"myeloid dendritic cell, human"
+102,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+103,bronchial smooth muscle cell
+104,slow muscle cell
+105,"effector CD8-positive, alpha-beta T cell"
+106,lung secretory cell
+107,epithelial cell
+108,amacrine cell
+109,IgM plasma cell
+110,native cell
+111,neural cell
+112,retinal rod cell
+113,conventional dendritic cell
+114,intermediate monocyte
+115,"CD16-positive, CD56-dim natural killer cell, human"
+116,kidney connecting tubule epithelial cell
+117,kidney interstitial fibroblast
+118,glutamatergic neuron
+119,retina horizontal cell
+120,pancreatic D cell
+121,"CD8-positive, alpha-beta cytotoxic T cell"
+122,myofibroblast cell
+123,"CD4-positive, alpha-beta memory T cell"
+124,granulocyte
+125,T-helper 17 cell
+126,ionocyte
+127,kidney collecting duct principal cell
+128,retinal ganglion cell
+129,Kupffer cell
+130,alpha-beta T cell
+131,basal cell
+132,mucus secreting cell
+133,"CD14-low, CD16-positive monocyte"
+134,CD141-positive myeloid dendritic cell
+135,neuroendocrine cell
+136,kidney proximal convoluted tubule epithelial cell
+137,Langerhans cell
+138,mesenchymal cell
+139,pancreatic stellate cell
+140,vein endothelial cell
+141,myeloid dendritic cell
+142,interstitial cell of Cajal
+143,macrophage
+144,T follicular helper cell
+145,stem cell
+146,radial glial cell
+147,mesothelial cell
+148,glandular epithelial cell
+149,ON-bipolar cell
+150,B cell
+151,erythroid progenitor cell
+152,vascular associated smooth muscle cell
+153,mesenchymal stem cell
+154,erythrocyte
+155,kidney loop of Henle thin descending limb epithelial cell
+156,lung macrophage
+157,gamma-delta T cell
+158,double negative thymocyte
+159,follicular dendritic cell
+160,"CD8-positive, alpha-beta T cell"
+161,medullary thymic epithelial cell
+162,club cell
+163,pericyte
+164,"CD14-positive, CD16-positive monocyte"
+165,intestinal crypt stem cell
+166,cholangiocyte
+167,hematopoietic precursor cell
+168,tracheal goblet cell
+169,plasmablast
+170,fibroblast of lung
+171,"central memory CD4-positive, alpha-beta T cell"
+172,parietal epithelial cell
+173,myeloid cell
+174,hepatocyte
+175,immature B cell
+176,respiratory basal cell
+177,group 3 innate lymphoid cell
+178,transit amplifying cell of small intestine
+179,paneth cell of epithelium of small intestine
+180,pancreatic A cell
+181,CD4-positive helper T cell
+182,retinal pigment epithelial cell
+183,duct epithelial cell
+184,pancreatic acinar cell
+185,T cell
+186,kidney collecting duct intercalated cell
+187,endothelial cell
+188,blood vessel endothelial cell
+189,goblet cell
+190,dendritic cell
+191,astrocyte
+192,common lymphoid progenitor
+193,endothelial cell of hepatic sinusoid
+194,"naive thymus-derived CD8-positive, alpha-beta T cell"
+195,colon epithelial cell
+196,animal cell
+197,CD1c-positive myeloid dendritic cell
+198,respiratory epithelial cell
+199,"CD4-positive, alpha-beta cytotoxic T cell"
+200,naive T cell
+201,IgG plasma cell
+202,"CD8-positive, alpha-beta memory T cell"

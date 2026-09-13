@@ -1,0 +1,1 @@
+{"latent_dim": 128, "hidden_dim": [1024, 1024, 1024], "dropout": 0.5, "input_dropout": 0.4, "margin": 0.05, "alpha": 0.001, "negative_selection": "semihard", "sample_across_studies": true, "perturb_labels": true, "perturb_labels_fraction": 0.5, "lr": 0.005, "l1_lambda": 0.0001, "l2_lambda": 0.01, "batch_size": 1000, "iterations": 50000, "residual": false}
