@@ -2,8 +2,6 @@
 
 **TenxMap** is a cycle-consistent generative adversarial network (CycleGAN) framework for cross-platform single-cell transcriptomic domain adaptation. It maps low-quality, low-cost data (e.g., **10x Genomics**, dropout rate > 90%) into the style of high-quality, high-cost data (e.g., **Smart-seq2**), while preserving the intrinsic biological identity of every source-domain cell.
 
-It was developed as part of the master's thesis *"Generation Method for Single-Cell Transcriptomic Data Based on Generative Adversarial Networks and Its Application"* (Tang Xin, supervised by Prof. Hongli Du, South China University of Technology).
-
 <p align="center">
   <img src="model_architecture.png" alt="TenxMap model architecture" width="800">
 </p>
